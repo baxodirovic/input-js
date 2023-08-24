@@ -2,7 +2,7 @@ var elForm = document.querySelector("[data-form]");
 var elInput = document.querySelector("[data-input-money]");
 var elSelect = document.querySelector("[data-select-money]");
 var elHeading = document.querySelector("[data-heading]");
-// currency rate for 8/24/2023
+// currency rate for 8/24/2023.
 var usd = 12125;
 var rubl = 129.3902;
 var euro = 13230.4878;
